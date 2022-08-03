@@ -1,2 +1,4 @@
-Hello, please let me finish this exercise 
-Pretty please 
+Hello 
+bye 
+good day
+
